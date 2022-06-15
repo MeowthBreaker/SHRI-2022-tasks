@@ -1,5 +1,4 @@
 # SHRI-2022-tasks
-solutions for entrance tasks of shri 2022
 
 All of my solutions for 7 tasks of shri 2022.
 
